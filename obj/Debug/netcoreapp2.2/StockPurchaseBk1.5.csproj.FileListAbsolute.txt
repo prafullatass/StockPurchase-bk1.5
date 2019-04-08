@@ -1,0 +1,11 @@
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.csprojAssemblyReference.cache
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.csproj.CoreCompileInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.AssemblyInfoInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.AssemblyInfo.cs
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\bin\Debug\netcoreapp2.2\StockPurchaseBk1.5.deps.json
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\bin\Debug\netcoreapp2.2\StockPurchaseBk1.5.runtimeconfig.json
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\bin\Debug\netcoreapp2.2\StockPurchaseBk1.5.runtimeconfig.dev.json
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\bin\Debug\netcoreapp2.2\StockPurchaseBk1.5.dll
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\bin\Debug\netcoreapp2.2\StockPurchaseBk1.5.pdb
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.dll
+C:\Users\prafu\workspace\csharp\exercises\StockPurchaseBk1.5\obj\Debug\netcoreapp2.2\StockPurchaseBk1.5.pdb
